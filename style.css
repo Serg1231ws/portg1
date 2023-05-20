@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    text-align: center;
+    margin: -8px;
+    padding: 20px;
+
+}
+h1 {
+    border: 5px solid blue;
+    border-radius: 15px;
+    text-align: center;
+    font-family: Apple Chancery, cursive;
+}
+h2 {
+    text-align: center;
+    font-size: 80px;
+    text-shadow: 0 4px 4px rgb(0, 204, 255);
+}
+.link-nap {
+    font-size: 30px;
+    text-decoration: none;
+}
+p {
+   background-color: lime;
+   font-size: 25px;
+   font-family: cursive;
+}
+.rab {
+    font-size: 28px;
+    text-decoration: none;
+    margin: 0 0 50px 5px;
+}
+.info {
+    font-size: 28px;
+    text-decoration: none;
+    margin: 0 0 50px 30px
+}
+.rab:hover {
+    color: aqua;
+}
+.info:hover {
+    color: aqua;
+}
+.rab:focus {
+    color: navy;
+}
+.info:focus {
+    color: navy;
+}
+
